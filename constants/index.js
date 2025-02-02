@@ -117,7 +117,7 @@ const links = [
       {
         id: 3,
         text: "Cors Station",
-        link: "/opts",
+        link: "/cors",
         // translation: "Product3",
       },
       {
