@@ -646,7 +646,7 @@ const products = {
       {
         id: 0,
         name: "Auto Level",
-        images: [Acc17, Opts2, Opts3, Opts4, Opts5, Opts6],
+        images: [Opts2, Opts3, Opts4, Opts5, Opts6, Acc17],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: create(5),
         datasheet:
