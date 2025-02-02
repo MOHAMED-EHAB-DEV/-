@@ -73,15 +73,15 @@
     "items": {
       "0": {
         "title": "Exclusive Agent",
-        "desc": "For Qimam Commercial Space Company within Saudi Arabia, manufacturing the best surveying equipment for various applications."
+        "desc": "Qimam Al-Masaha Company is the exclusive agent for Toknav in the Kingdom of Saudi Arabia and is one of the largest companies specializing in surveying technology."
       },
       "1": {
-        "title": "Technical Support",
-        "desc": "Continuous technical support to provide necessary information and updates for all surveying equipment at the company."
+        "title": "Field Division",
+        "desc": "We provide comprehensive surveying solutions through a team of certified and experienced surveyors, including surveying, updating deeds, grid leveling, and issuing surveying decisions."
       },
       "2": {
-        "title": "Maintenance Department",
-        "desc": "We are not just a sales outlet; we have a maintenance department that has participated in implementing some of the Kingdom's most prominent projects."
+        "title": "Technical Support and Maintenance",
+        "desc": "We provide maintenance, calibration, and technical support services for all surveying equipment."
       }
     }
   },

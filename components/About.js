@@ -105,17 +105,15 @@ const About = () => {
                 <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
                   {" "}
                   {/* Fixed width for title */}
-                  {t2("items.2.title")}
+                  {t2("items.2.title")}:
                 </h3>
               </div>
             </div>
-            <hr className="my-8 border-gray-200" /> {/* Horizontal line */}
             {/* Item 4 */}
             <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
               <div className="text-blue-600 flex items-center gap-4">
-                <MdOutlineSell className="w-8 h-8 md:w-12 md:h-12" />
+                <span className="text-[#2563EB]">1-</span>
                 <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
-                  {" "}
                   {/* Fixed width for title */}
                   {t2("items.3.title")}
                 </h3>
@@ -126,7 +124,7 @@ const About = () => {
             {/* Item 5 */}
             <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
               <div className="text-blue-600 flex items-center gap-4">
-                <MdModelTraining className="w-8 h-8 md:w-12 md:h-12" />
+                <span className="text-[#2563EB]">2-</span>
                 <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
                   {" "}
                   {/* Fixed width for title */}
