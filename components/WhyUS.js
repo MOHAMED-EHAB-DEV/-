@@ -9,7 +9,7 @@ import { whyUS } from "@/constants";
 import { getUserLocale } from "@/lib/db";
 import { defaultLocale } from "@/lib/config";
 
-const WhyUS = ({ isHome }) => {
+const WhyUS = ({ isHome=false }) => {
   const t = useTranslations("WhyUS");
   const [currentLocale, setCurrentLocale] = useState(defaultLocale);
 

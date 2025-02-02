@@ -32,7 +32,6 @@ import logo1 from "@/public/logo-1.jpg";
 import logo2 from "@/public/logo-2.png";
 import logo3 from "@/public/logo-3.jpeg";
 import logo4 from "@/public/logo-4.jpg";
-import logo5 from "@/public/logo-5.png";
 import logo6 from "@/public/logo-6.jpeg";
 import logo7 from "@/public/logo-7.PNG";
 import logo8 from "@/public/logo-8.jpg";
@@ -66,7 +65,6 @@ import Acc20 from "@/public/acc20.jpeg";
 import Acc21 from "@/public/acc21.jpeg";
 import Acc22 from "@/public/acc22.jpeg";
 import Opts2 from "@/public/opts2.png";
-import Opts3 from "@/public/opts3.jpg";
 import Opts4 from "@/public/opts4.jpeg";
 import Opts5 from "@/public/opts5.jpeg";
 import Opts6 from "@/public/opts6.jpeg";
@@ -157,11 +155,6 @@ const logos = [
     id: 4,
     alt: "Logo 4",
     imgUrl: logo4,
-  },
-  {
-    id: 5,
-    alt: "Logo 5",
-    imgUrl: logo5,
   },
   {
     id: 6,
