@@ -9,7 +9,7 @@ import { whyUS } from "@/constants";
 import { getUserLocale } from "@/lib/db";
 import { defaultLocale } from "@/lib/config";
 
-const WhyUS = () => {
+const WhyUS = ({ isHome }) => {
   const t = useTranslations("WhyUS");
   const [currentLocale, setCurrentLocale] = useState(defaultLocale);
 
@@ -44,23 +44,25 @@ const WhyUS = () => {
       className="flex almarai flex-col text-right items-center justify-center gap-12 p-12 w-full bg-[#F9F9F9]"
     >
       {/* Title and Description */}
-      <motion.div
-        className="flex flex-col gap-4 items-center justify-center text-center"
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.6 }}
-      >
-        <h3
-          className={`${
-            currentLocale === "ar" ? "almarai-extrabold" : "font-extrabold"
-          } text-4xl text-[#1A1313]`}
+      {!isHome && (
+        <motion.div
+          className="flex flex-col gap-4 items-center justify-center text-center"
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
         >
-          {t("title")}
-        </h3>
-        <h2 className="almarai-bold text-lg text-[#1A1313] opacity-80">
-          {t("desc")}
-        </h2>
-      </motion.div>
+          <h3
+            className={`${
+              currentLocale === "ar" ? "almarai-extrabold" : "font-extrabold"
+            } text-4xl text-[#1A1313]`}
+          >
+            {t("title")}
+          </h3>
+          <h2 className="almarai-bold text-lg text-[#1A1313] opacity-80">
+            {t("desc")}
+          </h2>
+        </motion.div>
+      )}
 
       {/* Cards */}
       <motion.div

@@ -1,6 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
-import logo from "@/public/icon.png";
 
 function Footer() {
   return (
@@ -99,6 +97,7 @@ function Footer() {
               Mobile Number: +966531372416
             </span>
           </div>
+          <div className="flex gap-2"></div>
         </div>
       </footer>
     </div>
