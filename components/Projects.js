@@ -31,9 +31,9 @@ const Projects = () => {
                   <Image
                     alt={alt}
                     src={imgUrl}
-                    width={150}
-                    height={60}
-                    className="object-contain"
+                    width={300}
+                    height={150}
+                    className="object-contain w-full h-full"
                   />
                   <span>{alt}</span>
                 </div>

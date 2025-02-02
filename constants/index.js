@@ -907,7 +907,7 @@ const heroProducts = [
     backgroundImage: "/hero_bg-5.jpg",
   },
   {
-    id: 4,
+    id: 5,
     name: "NET660i GNSS Receiver",
     img: Cors1,
     desc: "TR10 Pre-Marking Robot is an auxiliary robot that can automatically measure, mark, and draw lines on the road. It can improve the printing and spraying efficiency of road auxiliary lines, and reduce labor pressure and costs.",
