@@ -490,7 +490,7 @@
         }
       }
     },
-    "rgt": {
+    "rbt": {
       "items": {
         "0": {
           "desc": "TR10 Pre-Marking Robot is an auxiliary robot that can automatically measure, mark, and draw lines on the road. It can improve the printing and spraying efficiency of road auxiliary lines, and reduce labor pressure and costs.",
