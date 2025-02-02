@@ -1,0 +1,627 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Our Products",
+    "contacts": "Contact Us",
+    "btn": "Download Catalog"
+  },
+  "Details": {
+    "items": {
+      "1": {
+        "title": "Sale, Rental, and Exchange of Surveying Equipment",
+        "desc": "Providing the latest surveying equipment of various types to meet customer requirements. Offering rental and exchange options for equipment as needed."
+      },
+      "2": {
+        "title": "Training",
+        "desc": "Providing comprehensive training courses for all institutes and surveyors in the Kingdom. Supporting the development of skills for professionals in the surveying field using modern equipment."
+      }
+    }
+  },
+  "Partners": {
+    "title": "Our Partners"
+  },
+  "Projects": {
+    "title": "Our Projects"
+  },
+  "Contacts": {
+    "title": "Contact Us",
+    "Fields": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "whatsapp": "WhatsApp Number",
+      "message": "Leave Your Message"
+    },
+    "submit": "Send",
+    "email": "Send Message With Email",
+    "whatsapp": "Send Message With WhatsApp"
+  },
+  "Testimonials": {
+    "title": "Customer Reviews",
+    "desc": "What do our customers say about us?",
+    "items": {
+      "0": {
+        "text": "Qimam Al-Masaha Company has the best customer service and after-sales services, including warranty, maintenance, and calibration. Everything is available with them, and their interaction is at the highest level of professionalism, especially Engineer Islam and Engineer Omar."
+      },
+      "1": {
+        "text": "The Toknav device is one of the best devices in the Kingdom. Its range reaches up to 22 kilometers, as tested in Madinah and Riyadh. The battery lasts for 15 continuous hours. Their technical support is excellent, and they resolve issues in the shortest time possible."
+      },
+      "2": {
+        "text": "First, I would like to thank Mr. Ahmed for his service to us. He started the project with us and explained the device to me from start to finish. The Toknav device is one of the best in the Kingdom, and my experience with it was new. Its price is very reasonable, and they offer cash and installment options."
+      },
+      "3": {
+        "text": "One of the best companies, Qimam Al-Masaha, has excellent customer service. The device was delivered on the same day as the payment. We tested the accuracy near buildings and under trees, and the network was excellent. The accuracy at a depth of 8 meters was also great; the device fixed the signal without any interruptions."
+      },
+      "4": {
+        "text": "The Toknav GPS device is very powerful, and the best thing about it is its range, which reaches up to 16 kilometers. The battery is also very good, lasting over 12 hours. Their customer service is excellent, and technical support responds to us at any time. Engineer Islam Al-Subaie did not let us down in any way."
+      },
+      "5": {
+        "text": "We have purchased 4 Toknav GPS devices and have been dealing with them for 3 years. The device is truly excellent, and their technical support has never failed us. Engineer Omar is very professional and sends the device with a technical support engineer to train the surveyors on all details. Thank you."
+      },
+      "6": {
+        "text": "Honestly, I recommend the Toknav GPS device to anyone because it serves well on-site in all aspects. The T30's laser reaches up to 100 meters, and its accuracy is very good. Their technical support is excellent. Mr. Ahmed Ashraf visits the site or joins us via video call to analyze and resolve issues in the shortest time possible."
+      },
+      "7": {
+        "text": "Qimam Al-Masaha offers a very good device, and we have purchased several devices from them because their prices are reasonable, unlike other agencies. They provide excellent service for the Toknav GPS. Its 5-watt radio reaches up to 25 kilometers. If we were to recommend a device, it would definitely be from Qimam Al-Masaha, with their excellent after-sales service, especially with Mr. Omar Al-Subaie."
+      }
+    }
+  },
+  "WhyUS": {
+    "title": "Why Choose Us!",
+    "desc": "Providing exceptional service to those working in and interested in the field of surveying, making it accessible and within their reach, and offering the latest in advanced and modern surveying equipment.",
+    "items": {
+      "0": {
+        "title": "Exclusive Agent",
+        "desc": "For Qimam Commercial Space Company within Saudi Arabia, manufacturing the best surveying equipment for various applications."
+      },
+      "1": {
+        "title": "Technical Support",
+        "desc": "Continuous technical support to provide necessary information and updates for all surveying equipment at the company."
+      },
+      "2": {
+        "title": "Maintenance Department",
+        "desc": "We are not just a sales outlet; we have a maintenance department that has participated in implementing some of the Kingdom's most prominent projects."
+      }
+    }
+  },
+  "Statistics": {
+    "title": "Statistics Reflecting Our Excellence",
+    "1": "Engineering Office and Company",
+    "2": "Completed Projects",
+    "3": "Years of Experience"
+  },
+  "Product": {
+    "other": "Other Products",
+    "Catalog": "Download Datasheet",
+    "desc": "Description",
+    "Home": "Home"
+  },
+  "Hero": {
+    "products": {
+      "0": {
+        "text": "The internal battery of the device is 13800 mAh, sufficient for 15 hours of continuous operation as a mobile unit. Surveying is done via the camera, making it easy to survey in enclosed spaces such as construction buildings and facades. The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 15 km under standard conditions."
+      },
+      "1": {
+        "text": "The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 15 km under standard conditions. The internal battery of the device is 9600 mAh, sufficient for 21 hours of continuous operation as a mobile unit and 10 hours as a fixed unit. \nA screen to clarify work tasks."
+      },
+      "2": {
+        "text": "The internal battery of the device is 9600 mAh, sufficient for 12 hours of continuous operation as a fixed unit and 10 hours as a fixed unit. The device receives 1408 channels. The internal radio of the device is 2 watts, reaching up to 10 km under standard conditions."
+      },
+      "3": {
+        "text": "The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 20 km under standard conditions. The internal battery of the device is 13800 mAh, sufficient for 48 hours of continuous operation as a fixed unit and 48 hours as a mobile unit. The device supports surveying at an angle of up to 60 degrees."
+      },
+      "4": {
+        "text": "TR10 Pre-Marking Robot is an auxiliary robot that can automatically measure, mark, and draw lines on the road. It can improve the printing and spraying efficiency of road auxiliary lines, and reduce labor pressure and costs."
+      },
+      "5": {
+        "text": "NET660i GNSS receriver is the second-generation modular base station receiver introduced by TOKNAV. It boasts a compact size, multifunction, 32GB storage, and abundant interface protocols. These features contribute to making VRS CORS establishment more convenient and reliable"
+      }
+    }
+  },
+  "Products": {
+    "gnss": {
+      "items": {
+        "0": {
+          "desc": "The internal battery of the device is 13800 mAh, sufficient for 15 hours of continuous operation as a mobile unit. Surveying is done via the camera, making it easy to survey in enclosed spaces such as construction buildings and facades. The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 15 km under standard conditions.",
+          "desc2": "The internal battery of the device is 13800 mAh, sufficient for 15 hours of continuous operation as a mobile unit. Surveying is done via the camera, making it easy to survey in enclosed spaces such as construction buildings and facades. The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 15 km under standard conditions.",
+          "details": {
+            "0": {
+              "desc": "Lightweight device, 1 kg"
+            },
+            "1": {
+              "desc": "Receives 1408 channels from all satellite systems"
+            },
+            "2": {
+              "desc": "Surveying and point collection via the camera and AR signature"
+            },
+            "3": {
+              "desc": "ARTK feature to resume device operation in case of network or radio interruption"
+            },
+            "4": {
+              "desc": "Operates with an internal 5-watt radio with a range of 13 km in urban conditions and up to 15 km in ideal conditions"
+            },
+            "5": {
+              "desc": "Operates with IMU technology for surveying at an angle of up to 60 degrees"
+            },
+            "6": {
+              "desc": "WEB UI user interface, accessible via any smartphone or computer browser to adjust all device settings, download surveys, update the operating system, and display device status, among other features"
+            },
+            "7": {
+              "desc": "Signal reception in less than 1 second"
+            },
+            "8": {
+              "desc": "T30PRO is a GNSS receiver that integrates augmented reality and image surveying (IS)"
+            },
+            "9": {
+              "desc": "The internal battery capacity exceeds any device in Saudi Arabia with 13800 mAh, sufficient for a full day of GNSS operation"
+            },
+            "10": {
+              "desc": "Supports SIM CARD and offers multiple data transfer options from the control unit, such as (Bluetooth + WIFI + data cable + flash drive). It also features a QR Code feature exclusive to Toknav devices"
+            },
+            "11": {
+              "desc": "The device is equipped with a Bluetooth system with a range of 50 meters"
+            },
+            "12": {
+              "desc": "Resistant to drops from a height of 3 meters, water, and dust with IP68 rating"
+            },
+            "13": {
+              "desc": "Device accuracy: Real-Time Kinematic (<30KM) (RTK) H-8mm+1ppm V-15mm+1ppm"
+            },
+            "14": {
+              "desc": "Atlas technology feature for direct connection with satellites without the need for internet"
+            },
+            "15": {
+              "desc": "Internal memory of 8 GB and external memory up to 32 GB"
+            },
+            "16": {
+              "desc": "Operates in temperatures up to 65°C in summer and -20°C in winter"
+            },
+            "17": {
+              "desc": "TSURVEY control unit software is easy to use"
+            },
+            "18": {
+              "desc": "Two-year warranty with training and support"
+            }
+          }
+        },
+        "1": {
+          "desc": "The device receives 1408 channels. The internal radio of the device is 2 watts, reaching up to 10 km under standard conditions. The internal battery of the device is 9600 mAh, sufficient for 12 hours of continuous operation as a fixed unit and 10 hours as a fixed unit.",
+          "desc2": "The device receives 1408 channels. The internal radio of the device is 2 watts, reaching up to 10 km under standard conditions. The internal battery of the device is 9600 mAh, sufficient for 12 hours of continuous operation as a fixed unit and 10 hours as a fixed unit.",
+          "details": {
+            "0": {
+              "desc": "Lightweight device, 500 grams"
+            },
+            "1": {
+              "desc": "Receives 1408 channels from all satellite systems"
+            },
+            "2": {
+              "desc": "ARTK feature to resume device operation in case of network or radio interruption"
+            },
+            "3": {
+              "desc": "Operates with an internal 2-watt radio with a range of 8 km in urban conditions and up to 10 km in ideal conditions"
+            },
+            "4": {
+              "desc": "Operates with IMU technology for surveying at an angle of up to 60 degrees"
+            },
+            "5": {
+              "desc": "WEB UI user interface, accessible via any smartphone or computer browser to adjust all device settings, download surveys, update the operating system, and display device status, among other features"
+            },
+            "6": {
+              "desc": "Signal reception in less than 1 second"
+            },
+            "7": {
+              "desc": "T5 is a GNSS receiver that integrates augmented reality and image surveying (IS)"
+            },
+            "8": {
+              "desc": "The internal battery capacity exceeds any device in Saudi Arabia with 9600 mAh, sufficient for a full day of GNSS operation"
+            },
+            "9": {
+              "desc": "Supports SIM CARD and offers multiple data transfer options from the control unit, such as (Bluetooth + WIFI + data cable + flash drive). It also features a QR Code feature exclusive to Toknav devices"
+            },
+            "10": {
+              "desc": "The device is equipped with a Bluetooth system with a range of 50 meters"
+            },
+            "11": {
+              "desc": "Resistant to drops from a height of 3 meters, water, and dust with IP68 rating"
+            },
+            "12": {
+              "desc": "Device accuracy: Real-Time Kinematic (<30KM) (RTK) H-8mm+1ppm V-15mm+1ppm"
+            },
+            "13": {
+              "desc": "Atlas technology feature for direct connection with satellites without the need for internet"
+            },
+            "14": {
+              "desc": "Internal memory of 8 GB and external memory up to 32 GB"
+            },
+            "15": {
+              "desc": "Operates in temperatures up to 65°C in summer and -20°C in winter"
+            },
+            "16": {
+              "desc": "TSURVEY control unit software is easy to use"
+            },
+            "17": {
+              "desc": "Two-year warranty with training and support"
+            }
+          }
+        },
+        "2": {
+          "desc": "The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 15 km under standard conditions. The internal battery of the device is 9600 mAh, sufficient for 21 hours of continuous operation as a mobile unit and 10 hours as a fixed unit.",
+          "desc2": "A screen to clarify work tasks.",
+          "details": {
+            "0": {
+              "desc": "Lightweight device, 750 grams"
+            },
+            "1": {
+              "desc": "Receives 1408 channels from all satellite systems"
+            },
+            "2": {
+              "desc": "Receives 1408 channels from all satellite systems"
+            },
+            "3": {
+              "desc": "Operates with an internal 5-watt radio with a range of 13 km in urban conditions and up to 15 km in ideal conditions"
+            },
+            "4": {
+              "desc": "Operates with IMU technology for surveying at an angle of up to 60 degrees"
+            },
+            "5": {
+              "desc": "WEB UI user interface, accessible via any smartphone or computer browser to adjust all device settings, download surveys, update the operating system, and display device status, among other features"
+            },
+            "6": {
+              "desc": "Signal reception in less than 1 second"
+            },
+            "7": {
+              "desc": "T20PRO is a GNSS receiver that integrates augmented reality and image surveying (IS)"
+            },
+            "8": {
+              "desc": "The internal battery capacity exceeds any device in Saudi Arabia with 13800 mAh, sufficient for a full day of GNSS operation"
+            },
+            "9": {
+              "desc": "Supports SIM CARD and offers multiple data transfer options from the control unit, such as (Bluetooth + WIFI + data cable + flash drive). It also features a QR Code feature exclusive to Toknav devices"
+            },
+            "10": {
+              "desc": "The device is equipped with a Bluetooth system with a range of 50 meters"
+            },
+            "11": {
+              "desc": "Resistant to drops from a height of 3 meters, water, and dust with IP68 rating"
+            },
+            "12": {
+              "desc": "Device accuracy: Real-Time Kinematic (<30KM) (RTK) H-8mm+1ppm V-15mm+1ppm"
+            },
+            "13": {
+              "desc": "Atlas technology feature for direct connection with satellites without the need for internet"
+            },
+            "14": {
+              "desc": "Internal memory of 8 GB and external memory up to 32 GB"
+            },
+            "15": {
+              "desc": "Operates in temperatures up to 65°C in summer and -20°C in winter"
+            },
+            "16": {
+              "desc": "TSURVEY control unit software is easy to use"
+            },
+            "17": {
+              "desc": "Two-year warranty with training and support"
+            }
+          }
+        },
+        "3": {
+          "desc": "The internal battery of the device is 9600 mAh, sufficient for 12 hours of continuous operation as a fixed unit and 10 hours as a fixed unit. The device receives 1408 channels. The internal radio of the device is 2 watts, reaching up to 10 km under standard conditions.",
+          "desc2": "The internal battery of the device is 9600 mAh, sufficient for 12 hours of continuous operation as a fixed unit and 10 hours as a fixed unit. The device receives 1408 channels. The internal radio of the device is 2 watts, reaching up to 10 km under standard conditions.",
+          "details": {
+            "0": {
+              "desc": "Lightweight device, 500 grams"
+            },
+            "1": {
+              "desc": "Receives 1408 channels from all satellite systems"
+            },
+            "2": {
+              "desc": "ARTK feature to resume device operation in case of network or radio interruption"
+            },
+            "3": {
+              "desc": "Operates with an internal 2-watt radio with a range of 8 km in urban conditions and up to 10 km in ideal conditions"
+            },
+            "4": {
+              "desc": "Operates with IMU technology for surveying at an angle of up to 60 degrees"
+            },
+            "5": {
+              "desc": "WEB UI user interface, accessible via any smartphone or computer browser to adjust all device settings, download surveys, update the operating system, and display device status, among other features"
+            },
+            "6": {
+              "desc": "Signal reception in less than 1 second"
+            },
+            "7": {
+              "desc": "T10PRO is a GNSS receiver that integrates augmented reality and image surveying (IS)"
+            },
+            "8": {
+              "desc": "The internal battery capacity exceeds any device in Saudi Arabia with 9600 mAh, sufficient for a full day of GNSS operation"
+            },
+            "9": {
+              "desc": "Supports SIM CARD and offers multiple data transfer options from the control unit, such as (Bluetooth + WIFI + data cable + flash drive). It also features a QR Code feature exclusive to Toknav devices"
+            },
+            "10": {
+              "desc": "The device is equipped with a Bluetooth system with a range of 50 meters"
+            },
+            "11": {
+              "desc": "Resistant to drops from a height of 3 meters, water, and dust with IP68 rating"
+            },
+            "12": {
+              "desc": "Device accuracy: Real-Time Kinematic (<30KM) (RTK) H-8mm+1ppm V-15mm+1ppm"
+            },
+            "13": {
+              "desc": "Atlas technology feature for direct connection with satellites without the need for internet"
+            },
+            "14": {
+              "desc": "Internal memory of 8 GB and external memory up to 32 GB"
+            },
+            "15": {
+              "desc": "Operates in temperatures up to 65°C in summer and -20°C in winter"
+            },
+            "16": {
+              "desc": "Operates in temperatures up to 65°C in summer and -20°C in winter"
+            },
+            "17": {
+              "desc": "Two-year warranty with training and support"
+            }
+          }
+        },
+        "4": {
+          "desc": "The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 15 km under standard conditions. The internal battery of the device is 13800 mAh, sufficient for 15 hours of continuous operation as a mobile unit. Surveying is done via the laser and AR signature, making it easy to survey in enclosed spaces.",
+          "desc2": "The internal battery of the device is 13800 mAh, sufficient for 15 hours of continuous operation as a mobile unit. Surveying is done via the laser and AR signature, making it easy to survey in enclosed spaces.",
+          "details": {
+            "0": {
+              "desc": "Lightweight device, 1.0 kg"
+            },
+            "1": {
+              "desc": "Receives 1408 channels from all satellite systems"
+            },
+            "2": {
+              "desc": "The device is equipped with laser surveying (LASER) and AR signature (AR)"
+            },
+            "3": {
+              "desc": "ARTK feature to resume device operation in case of network or radio interruption"
+            },
+            "4": {
+              "desc": "Operates with an internal 5-watt radio with a range of 13 km in urban conditions and up to 15 km in ideal conditions"
+            },
+            "5": {
+              "desc": "Operates with IMU technology for surveying at an angle of up to 60 degrees"
+            },
+            "6": {
+              "desc": "WEB UI user interface, accessible via any smartphone or computer browser to adjust all device settings, download surveys, update the operating system, and display device status, among other features"
+            },
+            "7": {
+              "desc": "Signal reception in less than 1 second"
+            },
+            "8": {
+              "desc": "T30 is a GNSS receiver that integrates augmented reality and image surveying (IS)"
+            },
+            "9": {
+              "desc": "The internal battery capacity exceeds any device in Saudi Arabia with 13800 mAh, sufficient for a full day of GNSS operation"
+            },
+            "10": {
+              "desc": "Supports SIM CARD and offers multiple data transfer options from the control unit, such as (Bluetooth + WIFI + data cable + flash drive). It also features a QR Code feature exclusive to Toknav devices"
+            },
+            "11": {
+              "desc": "The device is equipped with a Bluetooth system with a range of 50 meters"
+            },
+            "12": {
+              "desc": "Resistant to drops from a height of 3 meters, water, and dust with IP68 rating"
+            },
+            "13": {
+              "desc": "Device accuracy: Real-Time Kinematic (<30KM) (RTK) H-8mm+1ppm V-15mm+1ppm"
+            },
+            "14": {
+              "desc": "Atlas technology feature for direct connection with satellites without the need for internet"
+            },
+            "15": {
+              "desc": "Internal memory of 8 GB and external memory up to 32 GB"
+            },
+            "16": {
+              "desc": "Operates in temperatures up to 65°C in summer and -20°C in winter"
+            },
+            "17": {
+              "desc": "TSURVEY control unit software is easy to use"
+            },
+            "18": {
+              "desc": "Two-year warranty with training and support"
+            }
+          }
+        },
+        "5": {
+          "desc": "The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 20 km under standard conditions. The internal battery of the device is 13800 mAh, sufficient for 48 hours of continuous operation as a fixed unit and 48 hours as a mobile unit. The device supports surveying at an angle of up to 60 degrees.",
+          "desc2": "The device receives 1408 channels. The internal radio of the device is 5 watts, reaching up to 20 km under standard conditions. The internal battery of the device is 13800 mAh, sufficient for 48 hours of continuous operation as a fixed unit and 48 hours as a mobile unit. The device supports surveying at an angle of up to 60 degrees.",
+          "details": {
+            "0": {
+              "desc": "Lightweight device, 1.500 kg"
+            },
+            "1": {
+              "desc": "Receives 1408 channels from all satellite systems"
+            },
+            "2": {
+              "desc": "ARTK feature to resume device operation in case of network or radio interruption"
+            },
+            "3": {
+              "desc": "Operates with an internal 5-watt radio with a range of 13 km in urban conditions and up to 15 km in ideal conditions"
+            },
+            "4": {
+              "desc": "Operates with IMU technology for surveying at an angle of up to 60 degrees"
+            },
+            "5": {
+              "desc": "WEB UI user interface, accessible via any smartphone or computer browser to adjust all device settings, download surveys, update the operating system, and display device status, among other features"
+            },
+            "6": {
+              "desc": "Signal reception in less than 1 second"
+            },
+            "7": {
+              "desc": "TBASE is a GNSS receiver that integrates augmented reality and image surveying (IS)"
+            },
+            "8": {
+              "desc": "The internal battery capacity exceeds any device in Saudi Arabia with 13800 mAh, sufficient for a full day of GNSS operation"
+            },
+            "9": {
+              "desc": "Supports SIM CARD and offers multiple data transfer options from the control unit, such as (Bluetooth + WIFI + data cable + flash drive). It also features a QR Code feature exclusive to Toknav devices"
+            },
+            "10": {
+              "desc": "The device is equipped with a Bluetooth system with a range of 50 meters"
+            },
+            "11": {
+              "desc": "Resistant to drops from a height of 3 meters, water, and dust with IP68 rating"
+            },
+            "12": {
+              "desc": "Device accuracy: Real-Time Kinematic (<30KM) (RTK) H-8mm+1ppm V-15mm+1ppm"
+            },
+            "13": {
+              "desc": "Atlas technology feature for direct connection with satellites without the need for internet"
+            },
+            "14": {
+              "desc": "Internal memory of 8 GB and external memory up to 32 GB"
+            },
+            "15": {
+              "desc": "Operates in temperatures up to 65°C in summer and -20°C in winter"
+            },
+            "16": {
+              "desc": "TSURVEY control unit software is easy to use"
+            },
+            "17": {
+              "desc": "Two-year warranty with training and support"
+            }
+          }
+        }
+      }
+    },
+    "rgt": {
+      "items": {
+        "0": {
+          "desc": "TR10 Pre-Marking Robot is an auxiliary robot that can automatically measure, mark, and draw lines on the road. It can improve the printing and spraying efficiency of road auxiliary lines, and reduce labor pressure and costs.",
+          "desc2": "TR10 Pre-Marking Robot is an auxiliary robot that can automatically measure, mark, and draw lines on the road. It can improve the printing and spraying efficiency of road auxiliary lines, and reduce labor pressure and costs.",
+          "details": {
+            "0": {
+              "desc": "Physical: Dimensions(L*W*H) 1152mm*542mm*658mm, Wheelbase 400mm, Wheel Track 465mm, Weight 20kg(empty)/28kg(85% of fuel)"
+            },
+            "1": {
+              "desc": "Battery: Battery type Lithium battery 24V/20Ah, Charging time(95%) 4h, Endurance 15km"
+            },
+            "2": {
+              "desc": "Environment: Communication CAN, Operating temperature -10℃~60℃ , Storage temperature -10℃~45℃,  IP rating IP3X"
+            },
+            "3": {
+              "desc": "Mobility: Motor specification Hub motor 200W*2, Maximum speed(m/s) 2m/s , Minimum turning radius 0°(In-place steering), Slope 20° "
+            },
+            "4": {
+              "desc": "Performance: Drawing Speed 0.5m/s~1m/s, Materials Latex paint/Titan , white liquid , Hopper capacity 7.5L, Error Equal or less than 2cm, Line types Dots, lines, curves, numbers, letters, patterns"
+            }
+          }
+        }
+      }
+    },
+    "cors": {
+      "items": {
+        "0": {
+          "desc": "NET660i GNSS receriver is the second-generation modular base station receiver introduced by TOKNAV. It boasts a compact size, multifunction, 32GB storage, and abundant interface protocols. These features contribute to making VRS CORS establishment more convenient and reliable",
+          "desc2": "Linux Intelligent System\nQualcomm Cortex-A7 + Linux, the intelligent system platform, brings efficient computing and unlimited expansion of product functions to users.",
+          "details": {
+            "0": {
+              "desc": "Multi Constellation: With its 1408 channels, NET660i provides an excellent on board real time navigation solution with high accuracy. All GNSS signals (GPS, GLONASS, BDS, GALILEO, QZSS and SBAS) are included."
+            },
+            "1": {
+              "desc": "Rich interfaces and various communication methods: The host provides Ethernet, WIFI，serial, Bluetooth and mobile network interfaces for customers to choose."
+            },
+            "2": {
+              "desc": "Compatible with multiple protocols: NET660i support Ntrip Client/Server/Caster, TCP Client/Server connection, FTP protocol file transfer, HTTP/HTTPS protocol, private network transfer function with protection policy."
+            },
+            "3": {
+              "desc": "Cloud service function: The host can regularly report the host status such as device location, network status, signal strength, star reception status, etc., and supports cloud platform to restart, reset, and upgrade the remote device."
+            },
+            "4": {
+              "desc": "Support front-end solution: The host supports the front-end calculation function which can complete the static data calculation on the host inside and upload the results to the cloud, which greatly reduces the requirements for the computing power of the cloud server."
+            },
+            "5": {
+              "desc": "IP68 Design: Industrial design, solid magnesium alloy shell, in line with IP68 design requirements, safe and reliable."
+            }
+          }
+        }
+      }
+    },
+    "opts": {
+      "items": {
+        "0": {
+          "desc": "",
+          "desc2": "",
+          "details": {
+            "0": {
+              "desc": "Model B30"
+            },
+            "1": {
+              "desc": "28x lens zoom"
+            },
+            "2": {
+              "desc": "1.7-kilometer range"
+            },
+            "3": {
+              "desc": "0.06-inch adjustment"
+            },
+            "4": {
+              "desc": "Waterproof"
+            }
+          }
+        }
+      }
+    }
+  },
+  "About": {
+    "title": "Qimam Al-Masaha Company",
+    "desc": "Qimam Al-Masaha is a company specialized in providing precise and professional surveying solutions.",
+    "desc2": "The company was established in 2019 to meet the needs of clients in the engineering, construction, agricultural, and infrastructure sectors, with a focus on delivering services and equipment based on the latest technologies.",
+    "items": {
+      "0": {
+        "title": "Our Vision",
+        "text": "",
+        "options": {
+          "0": {
+            "text": "To be the leading company in Saudi Arabia and the Middle East in providing innovative and comprehensive solutions in the field of selling, renting, and exchanging surveying equipment."
+          },
+          "1": {
+            "text": "Delivering the highest level of quality and field services."
+          },
+          "2": {
+            "text": "We strive to be the first choice for our clients by enhancing efficiency and accuracy in their projects and contributing to the sustainable development of the infrastructure and construction sector."
+          },
+          "3": {
+            "text": "Given the high precision required for major projects, we aim to be the first choice for professionals in the surveying field by providing exceptional services and high-quality products that meet all market needs."
+          },
+          "4": {
+            "text": "Qimam Al-Masaha provides the latest advanced surveying equipment that serves these massive projects."
+          }
+        }
+      },
+      "1": {
+        "title": "Our Goals",
+        "text": "",
+        "options": {
+          "0": {
+            "text": "We aim to provide high-quality products and excellent services in the field of surveying equipment and accessories."
+          },
+          "1": {
+            "text": "Focus on achieving customer satisfaction and effectively meeting their needs."
+          },
+          "2": {
+            "text": "We also strive to build sustainable working relationships with our clients and contribute to the development and improvement of the surveying and civil engineering sector in general."
+          }
+        }
+      },
+      "2": {
+        "title": "Our Services",
+        "text": "Qimam Al-Masaha offers integrated services in the field of surveying to meet the needs of clients in the Kingdom."
+      },
+      "3": {
+        "title": "Sale, Rental, and Exchange of Surveying Equipment",
+        "text": "Providing the latest surveying equipment of various types to meet customer requirements. Offering rental and exchange options for equipment as needed."
+      },
+      "4": {
+        "title": "Training",
+        "text": "Providing comprehensive training courses for all institutes and surveyors in the Kingdom. Supporting the development of skills for professionals in the surveying field using modern equipment."
+      }
+    }
+  }
+}
