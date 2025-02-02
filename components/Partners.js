@@ -7,7 +7,7 @@ const Partners = () => {
   const t = useTranslations("Partners");
 
   return (
-    <section className="py-12 bg-gray-500">
+    <section className="py-2 bg-gray-300">
       <div className="container mx-auto px-4">
         <div className="flex justify-center">
           <h1 className="p-10 almarai-bold text-5xl text-black text-center">
