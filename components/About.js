@@ -57,60 +57,85 @@ const About = () => {
             </p>
           </div>
 
-          <div className="mt-12 grid grid-cols-[auto_1fr] gap-8">
-            <div className="text-blue-600 flex items-center gap-4 col-span-1">
-              <FaBullseye className="w-12 h-12" />
-              <h3 className="text-xl font-bold text-gray-900 w-48">
-                {t2("items.0.title")}
-              </h3>
+          <div className="mt-12 flex flex-col gap-8">
+            {/* Item 1 */}
+            <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
+              <div className="text-blue-600 flex items-center gap-4">
+                <FaBullseye className="w-8 h-8 md:w-12 md:h-12" />
+                <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
+                  {" "}
+                  {/* Fixed width for title */}
+                  {t2("items.0.title")}
+                </h3>
+              </div>
+              <p className="text-gray-600">
+                {t2("items.0.text")}
+                <ul className="list-decimal pl-5">
+                  {create(5).map((value, index) => (
+                    <li key={index}>{t2(`items.0.options.${index}.text`)}</li>
+                  ))}
+                </ul>
+              </p>
             </div>
-            <p className="text-gray-600 col-span-1">
-              {t2("items.0.text")}
-              <ul className="list-decimal">
-                {create(5).map((value, index) => (
-                  <li key={index}>{t2(`items.0.options.${index}.text`)}</li>
-                ))}
-              </ul>
-            </p>
-
-            <div className="text-blue-600 flex items-center gap-4 col-span-1">
-              <GoGoal className="w-12 h-12" />
-              <h3 className="text-xl font-bold text-gray-900 w-48">
-                {t2("items.1.title")}
-              </h3>
+            <hr className="my-8 border-gray-200" /> {/* Horizontal line */}
+            {/* Item 2 */}
+            <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
+              <div className="text-blue-600 flex items-center gap-4">
+                <GoGoal className="w-8 h-8 md:w-12 md:h-12" />
+                <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
+                  {" "}
+                  {/* Fixed width for title */}
+                  {t2("items.1.title")}
+                </h3>
+              </div>
+              <p className="text-gray-600">
+                {t2("items.1.text")}
+                <ol className="list-decimal pl-5">
+                  {create(3).map((value, index) => (
+                    <li key={index}>{t2(`items.1.options.${index}.text`)}</li>
+                  ))}
+                </ol>
+              </p>
             </div>
-            <p className="text-gray-600 col-span-1">
-              {t2("items.1.text")}
-              <ol className="list-decimal">
-                {create(3).map((value, index) => (
-                  <li key={index}>{t2(`items.1.options.${index}.text`)}</li>
-                ))}
-              </ol>
-            </p>
-
-            <div className="text-blue-600 flex items-center gap-4 col-span-1">
-              <MdMiscellaneousServices className="w-12 h-12" />
-              <h3 className="text-xl font-bold text-gray-900 w-48">
-                {t2("items.2.title")}
-              </h3>
+            <hr className="my-8 border-gray-200" /> {/* Horizontal line */}
+            {/* Item 3 */}
+            <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
+              <div className="text-blue-600 flex items-center gap-4">
+                <MdMiscellaneousServices className="w-8 h-8 md:w-12 md:h-12" />
+                <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
+                  {" "}
+                  {/* Fixed width for title */}
+                  {t2("items.2.title")}
+                </h3>
+              </div>
+              <p className="text-gray-600">{t2("items.2.text")}</p>
             </div>
-            <p className="text-gray-600 col-span-1">{t2("items.2.text")}</p>
-
-            <div className="text-blue-600 flex items-center gap-4 col-span-1">
-              <MdOutlineSell className="w-12 h-12" />
-              <h3 className="text-xl font-bold text-gray-900 w-48">
-                {t2("items.3.title")}
-              </h3>
+            <hr className="my-8 border-gray-200" /> {/* Horizontal line */}
+            {/* Item 4 */}
+            <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
+              <div className="text-blue-600 flex items-center gap-4">
+                <MdOutlineSell className="w-8 h-8 md:w-12 md:h-12" />
+                <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
+                  {" "}
+                  {/* Fixed width for title */}
+                  {t2("items.3.title")}
+                </h3>
+              </div>
+              <p className="text-gray-600">{t2("items.3.text")}</p>
             </div>
-            <p className="text-gray-600 col-span-1">{t2("items.3.text")}</p>
-
-            <div className="text-blue-600 flex items-center gap-4 col-span-1">
-              <MdModelTraining className="w-12 h-12" />
-              <h3 className="text-xl font-bold text-gray-900 w-48">
-                {t2("items.4.title")}
-              </h3>
+            <hr className="my-8 border-gray-200" /> {/* Horizontal line */}
+            {/* Item 5 */}
+            <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
+              <div className="text-blue-600 flex items-center gap-4">
+                <MdModelTraining className="w-8 h-8 md:w-12 md:h-12" />
+                <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
+                  {" "}
+                  {/* Fixed width for title */}
+                  {t2("items.4.title")}
+                </h3>
+              </div>
+              <p className="text-gray-600">{t2("items.4.text")}</p>
             </div>
-            <p className="text-gray-600 col-span-1">{t2("items.4.text")}</p>
           </div>
         </div>
       </div>
