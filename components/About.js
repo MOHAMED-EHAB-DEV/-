@@ -6,7 +6,11 @@ import { useTranslations } from "next-intl";
 import { getUserLocale } from "@/lib/db";
 import { defaultLocale } from "@/lib/config";
 import { FaBullseye } from "react-icons/fa";
-import { MdMiscellaneousServices, MdOutlineSell, MdModelTraining } from "react-icons/md";
+import {
+  MdMiscellaneousServices,
+  MdOutlineSell,
+  MdModelTraining,
+} from "react-icons/md";
 import { GoGoal } from "react-icons/go";
 import { create } from "@/lib/utils";
 
@@ -55,9 +59,9 @@ const About = () => {
 
           <div className="mt-12 flex flex-col gap-8">
             <div className="flex gap-9 items-center">
-              <div className="text-blue-600 mb-4 flex items-center justify-center flex-col gap-1">
-                <FaBullseye className="w-12 h-12 self-start" />
-                <h3 className="text-xl font-bold text-gray-900 mb-3">
+              <div className="text-blue-600 flex items-center gap-4">
+                <FaBullseye className="w-12 h-12" />
+                <h3 className="text-xl font-bold text-gray-900">
                   {t2("items.0.title")}
                 </h3>
               </div>
@@ -71,9 +75,9 @@ const About = () => {
               </p>
             </div>
             <div className="flex gap-9 items-center">
-              <div className="text-blue-600 mb-4 flex items-center justify-center flex-col gap-1">
+              <div className="text-blue-600 flex items-center gap-4">
                 <GoGoal className="w-12 h-12" />
-                <h3 className="text-xl font-bold text-gray-900 mb-3">
+                <h3 className="text-xl font-bold text-gray-900">
                   {t2("items.1.title")}
                 </h3>
               </div>
@@ -87,37 +91,31 @@ const About = () => {
               </p>
             </div>
             <div className="flex gap-9 items-center">
-              <div className="text-blue-600 mb-4 flex items-center justify-center flex-col gap-1">
+              <div className="text-blue-600 flex items-center gap-4">
                 <MdMiscellaneousServices className="w-12 h-12" />
-                <h3 className="text-xl font-bold text-gray-900 mb-3">
+                <h3 className="text-xl font-bold text-gray-900">
                   {t2("items.2.title")}
                 </h3>
               </div>
-              <p className="text-gray-600">
-                {t2("items.2.text")}
-              </p>
+              <p className="text-gray-600">{t2("items.2.text")}</p>
             </div>
             <div className="flex gap-9 items-center">
-              <div className="text-blue-600 mb-4 flex items-center justify-center flex-col gap-1">
+              <div className="text-blue-600 flex items-center gap-4">
                 <MdOutlineSell className="w-12 h-12" />
-                <h3 className="text-xl font-bold text-gray-900 mb-3">
+                <h3 className="text-xl font-bold text-gray-900">
                   {t2("items.3.title")}
                 </h3>
               </div>
-              <p className="text-gray-600">
-                {t2("items.3.text")}
-              </p>
+              <p className="text-gray-600">{t2("items.3.text")}</p>
             </div>
             <div className="flex gap-9 items-center">
-              <div className="text-blue-600 mb-4 flex items-center justify-center flex-col gap-1">
+              <div className="text-blue-600 flex items-center gap-4">
                 <MdModelTraining className="w-12 h-12" />
-                <h3 className="text-xl font-bold text-gray-900 mb-3">
+                <h3 className="text-xl font-bold text-gray-900">
                   {t2("items.4.title")}
                 </h3>
               </div>
-              <p className="text-gray-600">
-                {t2("items.4.text")}
-              </p>
+              <p className="text-gray-600">{t2("items.4.text")}</p>
             </div>
           </div>
         </div>

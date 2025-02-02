@@ -67,11 +67,13 @@ import Acc19 from "@/public/acc19.jpeg";
 import Acc20 from "@/public/acc20.jpeg";
 import Acc21 from "@/public/acc21.jpeg";
 import Acc22 from "@/public/acc22.jpeg";
-import Opts2 from "@/public/opts2.png";
-import Opts3 from "@/public/opts3.jpg";
-import Opts4 from "@/public/opts4.jpeg";
-import Opts5 from "@/public/opts5.jpeg";
-import Opts6 from "@/public/opts6.jpeg";
+import Opts1 from "@/public/opts1.jpg"
+import Opts2 from "@/public/opts2.png"
+import Opts3 from "@/public/opts3.jpg"
+// import Opts4 from "@/public/opts4.png"
+// import Opts5 from "@/public/opts5.png"
+// import Opts6 from "@/public/opts6.png"
+// import Opts7 from "@/public/opts7.png"
 import TBase from "@/public/TBase-1.png";
 import Robot from "@/public/robot-1.png";
 import Cors1 from "@/public/cors-1.jpeg";
@@ -115,7 +117,7 @@ const links = [
       {
         id: 3,
         text: "Cors Station",
-        link: "/cors",
+        link: "/opts",
         // translation: "Product3",
       },
       {
@@ -249,6 +251,11 @@ const projects = [
     id: 4,
     alt: "مشروع تطوير الواجهه البحرية",
     imgUrl: Project4,
+  },
+  {
+    id: 5,
+    alt: "مشروع حديقة الملك سلمان",
+    imgUrl: Project5,
   },
 ];
 
@@ -414,7 +421,7 @@ const products = {
       },
       {
         id: 5,
-        name: "Leica Reflector ",
+        name: "Mini Prism ",
         images: [Acc6],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -428,7 +435,7 @@ const products = {
       },
       {
         id: 7,
-        name: "Tribrach + Adapter ",
+        name: "Leica Reflector ",
         images: [Acc8],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -442,7 +449,7 @@ const products = {
       },
       {
         id: 8,
-        name: "Charger",
+        name: "Tribrach + Adapter ",
         images: [Acc9],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -470,7 +477,7 @@ const products = {
       },
       {
         id: 10,
-        name: "Pole Fiber",
+        name: "Charger ",
         images: [Acc11],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -484,7 +491,7 @@ const products = {
       },
       {
         id: 11,
-        name: "Mini Prism",
+        name: "P8 GPS ",
         images: [Acc12],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -498,7 +505,7 @@ const products = {
       },
       {
         id: 12,
-        name: "Leasar Level",
+        name: "Pole Fiber ",
         images: [Acc13],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -512,7 +519,7 @@ const products = {
       },
       {
         id: 13,
-        name: "Leasar Level",
+        name: "Tripod Aluminum",
         images: [Acc14],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -526,7 +533,7 @@ const products = {
       },
       {
         id: 14,
-        name: "Auto Level",
+        name: "Tripod Aluminum",
         images: [Acc15],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -540,7 +547,7 @@ const products = {
       },
       {
         id: 15,
-        name: "P8 GPS",
+        name: "Leaser Level ",
         images: [Acc16],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
@@ -554,8 +561,22 @@ const products = {
       },
       {
         id: 16,
-        name: "Tripod Aluminum",
+        name: "Auto level",
         images: [Acc17],
+        desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
+        details: [
+          {
+            title: "Latest Laser Technology",
+            desc: "Laser technology offers unparalleled advantages in precision positioning and makes surveying work rodless and Easier. Combining cutting-edge laser technology with full constellation GNSS, IMU, and 4G integration, delivers calibration-free accuracy, significantly enhancing work efficiency and reducing potential risks.",
+          },
+        ],
+        desc2:
+          "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
+      },
+      {
+        id: 17,
+        name: "Laser Leveler",
+        images: [Acc18],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: [
           {
@@ -648,7 +669,7 @@ const products = {
       {
         id: 0,
         name: "Auto Level",
-        images: [Opts2, Acc17, Opts3, Opts4, Opts5, Opts6],
+        images: [Opts1, Opts2, Opts3],
         desc: "T30Pro is a GNSS receiver with a long battery life integrates AR and image surveying (IS).",
         details: create(5),
         desc2:
@@ -674,6 +695,7 @@ const products = {
   },
 };
 
+// Opts4, Opts5, Opts6, Opts7
 
 const testimonials = [
   // {
