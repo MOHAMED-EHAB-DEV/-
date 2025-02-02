@@ -248,11 +248,6 @@ const projects = [
     alt: "مشروع تطوير الواجهه البحرية",
     imgUrl: Project4,
   },
-  {
-    id: 5,
-    alt: "مشروع حديقة الملك سلمان",
-    imgUrl: Project5,
-  },
 ];
 
 const products = {
