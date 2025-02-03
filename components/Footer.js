@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { FaFacebook } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -6,7 +7,6 @@ function Footer() {
       <footer className="grid grid-flow-row sm:grid-flow-col place-items-start sm:gap-10 gap-4 text-sm p-10 container mx-auto text-white">
         {/* الشعار والعنوان */}
         <div className="grid grid-flow-col sm:grid-flow-row gap-2 items-center">
-
           <Link href={`/`}>
             <h1 className="cursor-pointer almarai-bold text-white text-lg hover:text-teal-200 transition-colors duration-300">
               Qimma Commercial Space
@@ -91,13 +91,16 @@ function Footer() {
               E-mail: info@surveyingpeaks.com
             </span>
             <span className="almarai-regular text-white hover:text-teal-200 transition-colors duration-300">
-              Address: Jeddah - Mushrifah District, Al-Sanee Communications Market, Toknaf Showroom
+              Address: Jeddah - Mushrifah District, Al-Sanee Communications
+              Market, Toknaf Showroom
             </span>
             <span className="almarai-regular text-white hover:text-teal-200 transition-colors duration-300">
               Mobile Number: +966531372416
             </span>
+            <div className="flex gap-2">
+              <Link href="https://www.facebook.com/Areameasurements"><FaFacebook className="w-12 h-12" /></Link>
+            </div>
           </div>
-          <div className="flex gap-2"></div>
         </div>
       </footer>
     </div>
