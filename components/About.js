@@ -102,7 +102,7 @@ const About = () => {
             <div className="flex flex-col items-center justify-center h-[20vh]">
               <div className="text-blue-600 flex items-center justify-center gap-1">
                 <MdMiscellaneousServices className="w-8 h-8 md:w-12 md:h-12" />
-                <h3 className="text-xl font-bold text-gray-900 w-48 text-center break-words">
+                <h3 className="text-xl font-bold text-gray-900 w-fit text-center break-words">
                   {t2("items.2.title")}
                 </h3>
               </div>
