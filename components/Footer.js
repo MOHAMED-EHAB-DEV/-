@@ -14,6 +14,12 @@ function Footer() {
               For Industrial Systems
             </h1>
           </Link>
+
+          <div className="flex gap-2">
+            <Link href="https://www.facebook.com/Areameasurements">
+              <FaFacebook className="w-12 h-12" />
+            </Link>
+          </div>
         </div>
 
         {/* روابط الصفحات */}
@@ -97,9 +103,6 @@ function Footer() {
             <span className="almarai-regular text-white hover:text-teal-200 transition-colors duration-300">
               Mobile Number: +966531372416
             </span>
-            <div className="flex gap-2">
-              <Link href="https://www.facebook.com/Areameasurements"><FaFacebook className="w-12 h-12" /></Link>
-            </div>
           </div>
         </div>
       </footer>
