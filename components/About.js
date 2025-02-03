@@ -99,7 +99,7 @@ const About = () => {
             </div>
             <hr className="my-8 border-gray-200" /> {/* Horizontal line */}
             {/* Item 3 */}
-            <div className="flex flex-col items-center justify-center h-[50vh]">
+            <div className="flex flex-col items-center justify-center h-[20vh]">
               <div className="text-blue-600 flex items-center justify-center gap-4">
                 <MdMiscellaneousServices className="w-8 h-8 md:w-12 md:h-12" />
                 <h3 className="text-xl font-bold text-gray-900 w-48 text-center break-words">
