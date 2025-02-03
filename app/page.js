@@ -20,11 +20,10 @@ export default function Home() {
     <>
       <Navbar isHomePage={true}  />
       <Hero />
-      {/* <Details isHome={true} /> */}
       <Partners />
       <Projects />
       <Statistics />
-      <WhyUS />
+      <Details isHome={true} />
       <Testimonials />
       <Contacts />
       <Map />
