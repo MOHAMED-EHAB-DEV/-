@@ -17,7 +17,7 @@ function Footer() {
 
           <div className="flex gap-2">
             <Link href="https://www.facebook.com/Areameasurements">
-              <FaFacebook className="w-12 h-12" />
+              <FaFacebook className="w-8 h-8" />
             </Link>
           </div>
         </div>
