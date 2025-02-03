@@ -110,7 +110,7 @@ const About = () => {
             {/* Item 4 */}
             <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
               <div className="text-blue-600 flex items-center gap-4">
-                <span className="text-[#2563EB] rounded-full border-gray-200">
+                <span className="text-[#2563EB] rounded-full border-[#2563EB] border">
                   1-
                 </span>
                 <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
@@ -123,7 +123,7 @@ const About = () => {
             {/* Item 5 */}
             <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
               <div className="text-blue-600 flex items-center gap-4">
-                <span className="text-[#2563EB] rounded-full border-gray-200">
+                <span className="text-[#2563EB] rounded-full border-[#2563EB] border">
                   2-
                 </span>
                 <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
