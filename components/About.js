@@ -112,7 +112,7 @@ const About = () => {
             {/* Item 4 */}
             <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
               <div className="text-blue-600 flex items-center gap-4">
-                <span className="text-[#2563EB]">1-</span>
+                <span className="text-[#2563EB] rounded-full border-gray-200">1-</span>
                 <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
                   {/* Fixed width for title */}
                   {t2("items.3.title")}
@@ -120,11 +120,10 @@ const About = () => {
               </div>
               <p className="text-gray-600">{t2("items.3.text")}</p>
             </div>
-            <hr className="my-8 border-gray-200" /> {/* Horizontal line */}
             {/* Item 5 */}
             <div className="grid grid-cols-1 md:grid-cols-[auto_1fr] gap-4 md:gap-9 items-start">
               <div className="text-blue-600 flex items-center gap-4">
-                <span className="text-[#2563EB]">2-</span>
+                <span className="text-[#2563EB] rounded-full border-gray-200">2-</span>
                 <h3 className="text-xl font-bold text-gray-900 w-48 break-words">
                   {" "}
                   {/* Fixed width for title */}
